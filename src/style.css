@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+button {
+  color: green;
+}
+
+a {
+  color: lavender;
+}
